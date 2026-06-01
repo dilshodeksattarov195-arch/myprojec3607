@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartfync",
+        "uuid": 28845179,
+        "checksum": "8h4x7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
